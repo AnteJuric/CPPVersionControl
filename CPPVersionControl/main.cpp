@@ -10,7 +10,7 @@ int main() {
 
 	greet();
 
-	cout << "ho ho";
+	cout << "jao sunce ti tvoje!";
 
 	return 0;
 }
