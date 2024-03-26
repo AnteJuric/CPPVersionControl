@@ -10,5 +10,7 @@ int main() {
 
 	greet();
 
+	cout << "ho ho";
+
 	return 0;
 }
